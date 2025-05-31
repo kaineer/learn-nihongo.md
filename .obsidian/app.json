@@ -1,1 +1,11 @@
-{}
+{
+  "vimMode": true,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "useTab": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets",
+  "showInlineTitle": false
+}
