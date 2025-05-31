@@ -168,6 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "313ce2f18bbe3c2b",
-  "lastOpenFiles": []
+  "active": "d8daf049d1a29d4e",
+  "lastOpenFiles": [
+    "bin/sync",
+    "bin"
+  ]
 }

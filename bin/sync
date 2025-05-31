@@ -1,0 +1,14 @@
+#!/bin/bash
+
+TS_FORMAT="%H:%M:%S %d.%m.%Y"
+
+commit_all_changes() {
+  git add .
+
+  TIMESTAMP=$(date +"${TS_FORMAT}")
+  git commit -m "Sync from $HOSTNAME by $USER on $TIMESTAMP"
+}
+
+commit_all_changes
+git push origin master
+git pull origin master
