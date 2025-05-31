@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6ec01f67a2ea5ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a73aadf7f55f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313ce2f18bbe3c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "banashi/太郎竜の子.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "太郎竜の子"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25481b85b0377b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccff7fb7ed0046b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8daf049d1a29d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e4f4f845e1252ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dfd09d82e109bfac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "909a1003d08c99b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6f2c6e214d6cf9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df1d2705ca6a3a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "banashi/太郎竜の子.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 太郎竜の子"
+            }
+          },
+          {
+            "id": "f86f7603270e4be7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "banashi/太郎竜の子.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 太郎竜の子"
+            }
+          },
+          {
+            "id": "cc90277893ed17ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e3d5f9a89e2ae99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "banashi/太郎竜の子.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 太郎竜の子"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "313ce2f18bbe3c2b",
+  "lastOpenFiles": []
+}
